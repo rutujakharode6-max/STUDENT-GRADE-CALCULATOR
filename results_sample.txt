@@ -1,0 +1,24 @@
+=========================================================================================================
+Student Name    | Subject 1 | Subject 2 | Subject 3 | Average | Grade | Comments                           
+---------------------------------------------------------------------------------------------------------
+John Doe        |      95.0 |      88.0 |      92.0 |   91.67 |   A   | Outstanding achievement! Keep aiming high.
+Jane Smith      |      75.0 |      82.0 |      80.0 |   79.00 |   C   | Good job, but there's room for improvement.
+Bob             |      50.0 |      60.0 |      55.0 |   55.00 |   F   | Don't give up! Seek some extra help and try again.
+=========================================================================================================
+
++-----------------------------------+
+|          CLASS STATISTICS         |
++-----------------------------------+
+| Total Students :                3 |
+| Class Average  :            75.22 |
+| Highest Average:            91.67 |
+| Lowest Average :            55.00 |
++-----------------------------------+
+|         GRADE DISTRIBUTION        |
++-----------------------------------+
+| Grade A        :                1 |
+| Grade B        :                0 |
+| Grade C        :                1 |
+| Grade D        :                0 |
+| Grade F        :                1 |
++-----------------------------------+
